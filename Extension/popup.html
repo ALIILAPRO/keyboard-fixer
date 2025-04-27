@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>تبدیل به فارسی - Aliilapro</title>
+  <link rel="stylesheet" href="popup.css">
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body class="dark-mode">
+  <div class="container">
+    <div class="theme-toggle">
+      <span id="themeLabel">حالت شب</span>
+      <label class="switch">
+        <input type="checkbox" id="themeToggle" checked>
+        <span class="slider"></span>
+      </label>
+    </div>
+    
+    <textarea id="inputText" placeholder="متن انگلیسی یا اشتباه را وارد کنید..."></textarea>
+    <button id="convertBtn">تبدیل کن</button>
+    <textarea id="outputText" placeholder="متن فارسی اینجاست..." readonly></textarea>
+    
+    <div class="footer">
+        <p>تبدیل به فارسی - نسخه 1.0</p>
+        <a href="https://github.com/aliilapro" target="_blank" rel="noopener" class="developer-link">
+          توسعه داده شده توسط ALIILAPRO
+        </a>
+      </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
