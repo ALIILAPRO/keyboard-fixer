@@ -1,6 +1,6 @@
 # keyboard-fixer
 
-# تبدیل به فارسی - افزونه مرورگر
+## افزونه مرورگر
 
 ## معرفی محصول
 
@@ -24,7 +24,7 @@
 
 ## نصب و استفاده
 
-1. 🔽 ابتدا [اینجا](https://github.com/aliilapro/keyboard-fixer) به صفحه گیت‌هاب پروژه مراجعه کنید.
+1. 🔽 ابتدا [اینجا](https://github.com/ALIILAPRO/keyboard-fixer/releases/download/V1.0/keyboard-fixer.zip) به صفحه گیت‌هاب پروژه مراجعه کنید.
 2. 📥 کد پروژه را دانلود کرده و فایل‌ها را از حالت فشرده خارج کنید.
 3. 🚀 به قسمت **Extensions** مرورگر خود بروید (در کروم: `chrome://extensions/`).
 4. ⚙️ گزینه **Developer Mode** را فعال کنید.
